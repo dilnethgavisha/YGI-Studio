@@ -13,3 +13,9 @@ function customers() {
 function login() {
     window.location.href = "../login In/index.html";
 }
+function animation() {
+    window.location.href = "../animation/index.html";
+}
+function video() {
+    window.location.href = "../video/index.html";
+}
